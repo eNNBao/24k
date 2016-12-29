@@ -1,0 +1,125 @@
+button{
+	border:none;
+	border-radius: 7px;
+	background-color: #b3b3b3;
+	text-align: center;
+	width: 785px;
+	height: 75px;
+	font-size: 59px;
+	word-spacing: 24px;
+	letter-spacing: 7px;
+	color: grey;
+	font-family: arial;
+}
+
+button:hover{
+	background-color: #EBC314;
+	color: white;
+}
+
+body {
+	line-height: 0;
+}
+
+#b {
+	margin: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#c {
+	margin: 10px auto;
+	border: 2px solid #b3b3b3;
+	width: 720px;
+	height: auto;
+	background-color: #d3d3d3;
+	padding: 25px 30px;
+	border-radius: 5px;
+}
+
+.s {
+	padding-bottom: 20px;
+	width: 20px;
+	display: inline-block;
+	background-color: white;
+	line-height: 0;
+}
+
+.h {
+	background-color: black;
+	opacity: 0.02;
+}
+
+.g {
+	background-color: #EBC314;
+	opacity: 0.02;
+
+}
+
+#top-left {
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: none;
+}
+
+.gctl {
+	width: 25px;
+	height: 25px;
+	background-color: #EBC314;
+	float: left;
+}
+
+
+.empty {
+	width: 25px;
+	height: 25px;
+	background-color: transparent;
+	float: left;
+}
+
+#top-right{
+	top: 0;
+	right: 0;
+	position: absolute;
+	display: none;
+}
+
+.gctr {
+	width: 25px;
+	height: 25px;
+	background-color: #EBC314;
+	float: right;
+}
+
+#bot-left {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	display: none;
+}
+
+.gcbl {
+	width: 25px;
+	height: 25px;
+	background-color: #EBC314;
+	float: left;
+}
+
+#bot-right {
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	display: none;
+}
+
+.gcbr {
+	width: 25px;
+	height: 25px;
+	background-color: #EBC314;
+	float: right;
+}
+
+.trans {
+	background-color: transparent;
+}
